@@ -6,7 +6,7 @@ This project entails utilizing Python as a tool to investigate data pertaining t
 Randomly selected data for the first six months of 2017 are provided for all three.
 
 
-The Cities are
+The Cities are:
 
 * Chicago.
 * Washington DC
